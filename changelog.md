@@ -1,3 +1,9 @@
+## v0.5
+2018-09-17
+
+* NGINX 1.14.0
+* Added compiling on a docker container with `make compile`
+
 ## v0.4
 
 2012-05-13
